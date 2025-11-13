@@ -14,21 +14,21 @@ The datasets consists of several medical predictor variables and one target vari
 
 Variables	Description
 
-Pregnancies	Number of times pregnant
+Pregnancies:	Number of times pregnant
 
-Glucose	Plasma glucose concentration in an oral glucose tolerance test
+Glucose	:Plasma glucose concentration in an oral glucose tolerance test
 
-BloodPressure	Diastolic blood pressure (mm Hg)
+BloodPressure:	Diastolic blood pressure (mm Hg)
 
-SkinThickness	Triceps skinfold thickness (mm)
+SkinThickness:	Triceps skinfold thickness (mm)
 
-Insulin	Two hour serum insulin
+Insulin:	Two hour serum insulin
 
-BMI	Body Mass Index
+BMI:	Body Mass Index
 
-DiabetesPedigreeFunction	Diabetes pedigree function
+DiabetesPedigreeFunction	
 
-Age	Age in years
+Age	:Age in years
 
 Outcome	Class variable (either 0 or 1). 268 of 768 values are 1, and the others are 0
 
@@ -56,9 +56,33 @@ Perform k-fold cross-validation model training and evaluate performance.
 
 
 
+
+
+HR ANALAYSIS DASHBOARD
+
 Key Features of an HR Dashboard 
 
 Comprehensive Metrics: The dashboard typically includes key performance indicators (KPIs) such as employee count, attrition rate, active employees, and average age. These metrics provide a high-level overview of the workforce.
 
 Visualizations for Attrition Analysis: Charts like lollipop charts (attrition by gender), pie charts (department-wise attrition), and bar graphs (age group distribution) help HR managers identify patterns and trends in employee turnover.
+
+
+
+
+WALMART ANALYSIS PROJECT
+
+
+In this project we focused retail analysis with Walmart data and answer the following questions:
+
+Which stores have maximum and sales?
+
+Which store has maximum standard deviation i.e., the sales vary a lot?. Also, find out the coefficient of mean to standard deviation.
+
+Which store/s has good quarterly growth rate in Q3’2012?
+
+Find out holidays which have higher sales than the mean sales in non-holiday season for all stores together.
+
+Provide a monthly and semester view of sales in units and give insights.
+
+Build prediction to forecast demand.
 

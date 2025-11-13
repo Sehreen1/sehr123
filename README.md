@@ -54,3 +54,11 @@ Perform clustering of employees who left based on their satisfaction and evaluat
 Handle the left Class Imbalance using the SMOTE technique.
 Perform k-fold cross-validation model training and evaluate performance.
 
+
+
+Key Features of an HR Dashboard 
+
+Comprehensive Metrics: The dashboard typically includes key performance indicators (KPIs) such as employee count, attrition rate, active employees, and average age. These metrics provide a high-level overview of the workforce.
+
+Visualizations for Attrition Analysis: Charts like lollipop charts (attrition by gender), pie charts (department-wise attrition), and bar graphs (age group distribution) help HR managers identify patterns and trends in employee turnover.
+
